@@ -11,6 +11,14 @@
 %
 % Requires the Optimization Toolbox (for lsqlin).
 
+% If you use this code, **please cite** the following paper:
+
+% > N. Ishida, K. Furuta, M. Kishimoto, T. Sasaki, H. Iwai, K. Izui and S. Nishiwaki:
+% > "Data-driven topology optimization of all-solid-state batteries considering conductive
+% > additive material informed by microstructure analysis", *Structural and Multidisciplinary
+% > Optimization*, 68 (2025), 164.
+% > doi: [10.1007/s00158-025-04094-9](https://doi.org/10.1007/s00158-025-04094-9)
+
 clear;
 addpath("function/");
 
